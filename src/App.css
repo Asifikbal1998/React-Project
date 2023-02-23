@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.asif {
+  display: flex;
+  max-width: 100%;
+}
+
+.asif>img {
+  padding: 5px;
+  width: 33%;
+}
